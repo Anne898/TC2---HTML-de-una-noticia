@@ -1,0 +1,2 @@
+# TC2---HTML-de-una-noticia
+Crear un archivo HTML para la estructura de una página que muestra una noticia. La noticia tiene como contenido (por lo menos) lo siguiente: Nombre de la página Logo Barra de navegación Título Reportero Lugar Fecha Hora Contenido (Introducción, desarrollo y conclusión) Comentarios (sección en construcción; se puede quedar vacía pero aún así se debe incluir) Footer Nota: De momento no se deben incluir imágenes todavía. Si se requiere incluir enlaces, incluir enlaces vacíos de la siguiente manera:
